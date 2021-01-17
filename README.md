@@ -23,6 +23,6 @@ To signup the client needs to provide his first name, last name and email addres
 This is the page that appears after the client has signed up and the is no errors.
 
 **Failure Page:**
-![Failure path](public/images/failure.JPG 'Failure Page')
+![Failure path](public/images/Failure.JPG 'Failure Page')
 
 This is the page that appears after the client has tried to signed up and there was any error along the way (mostly 404).
